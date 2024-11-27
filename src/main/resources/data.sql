@@ -1,0 +1,2 @@
+insert into product (name,price,description,productType) values ("Mobile",12000,"Galaxy a5","Electronics");
+insert into product (name,price,description,productType) values ("Mobile",25000,"iqoo neo 6","Electronics");
